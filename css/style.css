@@ -3,7 +3,11 @@
     font-style: normal;
     font-family: 'Pacifico';
     src: url('fonts/pacificoregular.eot');
-    src: local('pacificoregular'), url('fonts/pacificoregular.eot') format('embedded-opentype'),  url('fonts/pacificoregular.woff') format('woff'), url('fonts/pacificoregular.ttf') format('truetype'), url('fonts/pacificoregular.svg#pacificoregular') format('svg');
+    src: local('pacificoregular'), 
+         url('fonts/pacificoregular.eot') format('embedded-opentype'),
+         url('fonts/pacificoregular.woff') format('woff'), 
+         url('fonts/pacificoregular.ttf') format('truetype'), 
+         url('fonts/pacificoregular.svg#pacificoregular') format('svg');
 }
 
 @font-face {
@@ -11,7 +15,11 @@
     font-style: normal;
     font-family: 'Open Sans';
     src: url('fonts/opensansregular.eot');
-    src: local('openSansregular'), url('fonts/opensansregular.eot') format('embedded-opentype'),  url('fonts/opensansregular.woff') format('woff'), url('fonts/opensansregular.ttf') format('truetype'), url('fonts/opensansregular.svg#openSansregular') format('svg');
+    src: local('openSansregular'), 
+         url('fonts/opensansregular.eot') format('embedded-opentype'),
+         url('fonts/opensansregular.woff') format('woff'), 
+         url('fonts/opensansregular.ttf') format('truetype'), 
+         url('fonts/opensansregular.svg#openSansregular') format('svg');
 }
 
 @font-face {
@@ -19,7 +27,11 @@
     font-style: normal;
     font-family: 'Open Sans semibold';
     src: url('fonts/opensanssemibold.eot');
-    src: local('openSanssemibold'), url('fonts/opensanssemibold.eot') format('embedded-opentype'),  url('fonts/opensanssemibold.woff') format('woff'), url('fonts/opensanssemibold.ttf') format('truetype'), url('fonts/opensanssemibold.svg#openSanssemibold') format('svg');
+    src: local('openSanssemibold'), 
+         url('fonts/opensanssemibold.eot') format('embedded-opentype'),
+         url('fonts/opensanssemibold.woff') format('woff'), 
+         url('fonts/opensanssemibold.ttf') format('truetype'), 
+         url('fonts/opensanssemibold.svg#openSanssemibold') format('svg');
 }
 
 @font-face {
@@ -27,7 +39,11 @@
     font-style: normal;
     font-family: 'Open Sans ExtraBold';
     src: url('fonts/opensansExtrabold.eot');
-    src: local('OpenSansExtraBold'), url('fonts/opensansExtrabold.eot') format('embedded-opentype'),  url('fonts/opensansExtrabold.woff') format('woff'), url('fonts/opensansExtrabold.ttf') format('truetype'), url('fonts/opensansExtrabold.svg#OpenSansExtraBold') format('svg');
+    src: local('OpenSansExtraBold'), 
+         url('fonts/opensansExtrabold.eot') format('embedded-opentype'),  
+         url('fonts/opensansExtrabold.woff') format('woff'), 
+         url('fonts/opensansExtrabold.ttf') format('truetype'), 
+         url('fonts/opensansExtrabold.svg#OpenSansExtraBold') format('svg');
 }
 
 @font-face {
